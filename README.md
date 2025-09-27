@@ -18,3 +18,7 @@ The aim is to explore customer purchasing behavior, identify trends, and visuali
 - Matplotlib, Seaborn
 
 ---
+![My Project Screenshot](C:\Users\lokes\OneDrive\Desktop\IMAGES)
+
+
+
